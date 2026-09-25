@@ -76,10 +76,10 @@ No host permissions are requested.
 ### Privacy policy URL
 
 ```
-https://raw.githubusercontent.com/markusvankempen/ink-clock/main/PRIVACY.md
+https://raw.githubusercontent.com/markusvankempen/chrome-ext-ink-clock/main/PRIVACY.md
 ```
 
-Public docs repo: https://github.com/markusvankempen/ink-clock
+Public docs repo: https://github.com/markusvankempen/chrome-ext-ink-clock
 
 ## Screenshots
 

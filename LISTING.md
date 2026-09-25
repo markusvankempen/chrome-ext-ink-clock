@@ -4,13 +4,13 @@ Use this document while completing **Store listing → Product details**.
 Assets live in `dist/store-listing/` (also copied under this folder’s sibling paths below).
 
 **Privacy policy URL (required):**  
-https://raw.githubusercontent.com/markusvankempen/ink-clock/main/PRIVACY.md  
+https://raw.githubusercontent.com/markusvankempen/chrome-ext-ink-clock/main/PRIVACY.md  
 
 **Docs / homepage:**  
-https://github.com/markusvankempen/ink-clock  
+https://github.com/markusvankempen/chrome-ext-ink-clock  
 
 **Support URL (same as homepage is fine):**  
-https://github.com/markusvankempen/ink-clock/issues  
+https://github.com/markusvankempen/chrome-ext-ink-clock/issues  
 
 **Author:** [Markus van Kempen](https://markusvankempen.github.io/) · [markus.van.kempen@gmail.com](mailto:markus.van.kempen@gmail.com)
 
@@ -115,18 +115,18 @@ Screenshot order suggestion:
 None
 ```
 
-Or add `github.com/markusvankempen/ink-clock` in Search Console later if you want “Official URL”.
+Or add `github.com/markusvankempen/chrome-ext-ink-clock` in Search Console later if you want “Official URL”.
 
 ### Homepage URL
 
 ```
-https://github.com/markusvankempen/ink-clock
+https://github.com/markusvankempen/chrome-ext-ink-clock
 ```
 
 ### Support URL
 
 ```
-https://github.com/markusvankempen/ink-clock/issues
+https://github.com/markusvankempen/chrome-ext-ink-clock/issues
 ```
 
 ### Mature content
@@ -193,7 +193,7 @@ If the form also asks these follow-ups (wording varies):
 | Do you collect remote code? | **No** |
 
 Certify that the disclosures match the privacy policy:  
-https://raw.githubusercontent.com/markusvankempen/ink-clock/main/PRIVACY.md
+https://raw.githubusercontent.com/markusvankempen/chrome-ext-ink-clock/main/PRIVACY.md
 
 ---
 
@@ -202,7 +202,7 @@ https://raw.githubusercontent.com/markusvankempen/ink-clock/main/PRIVACY.md
 When the dashboard asks for a privacy policy:
 
 ```
-https://raw.githubusercontent.com/markusvankempen/ink-clock/main/PRIVACY.md
+https://raw.githubusercontent.com/markusvankempen/chrome-ext-ink-clock/main/PRIVACY.md
 ```
 
 **Single purpose (if asked):**  

@@ -9,7 +9,7 @@ Every new tab opens a cream page: the date, the minute, a sentence that names th
 | | |
 |---|---|
 | **Install** | [Load unpacked](#install) from this folder |
-| **Privacy** | [PRIVACY.md](PRIVACY.md) — also at [github.com/markusvankempen/ink-clock](https://github.com/markusvankempen/ink-clock) |
+| **Privacy** | [PRIVACY.md](PRIVACY.md) — [chrome-ext-ink-clock](https://github.com/markusvankempen/chrome-ext-ink-clock) |
 | **Chrome Web Store** | [STORE.md](STORE.md) — listing copy and submission checklist |
 
 ## Screenshots
@@ -130,7 +130,7 @@ chrome/
 
 - Clock-of-books idea: [Jaap Meijers](https://www.instructables.com/Literary-Clock-Made-From-E-reader/) and the literature-clock tradition  
 - Copyright-free corpus: Project Gutenberg, Wikisource, Faded Page, British Library, and other sources gathered under this project’s Canada rules  
-- Alexa skill **Ink O’Clock** (invocation **ink clock**) — separate product; online feed  
+- Alexa skill **[Ink O’Clock](https://github.com/markusvankempen/alexa-ink-clock)** (invocation **ink clock**) — separate product; online feed  
 - Extension, voices, and packaging: Markus van Kempen  
 
 ## Author

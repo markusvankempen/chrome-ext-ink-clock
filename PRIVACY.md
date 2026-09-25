@@ -35,7 +35,7 @@ No bug too small, no syntax too weird.
 Published privacy policy for the Chrome Web Store:
 
 ```
-https://raw.githubusercontent.com/markusvankempen/ink-clock/main/PRIVACY.md
+https://raw.githubusercontent.com/markusvankempen/chrome-ext-ink-clock/main/PRIVACY.md
 ```
 
-Docs home: https://github.com/markusvankempen/ink-clock
+Docs home: https://github.com/markusvankempen/chrome-ext-ink-clock
