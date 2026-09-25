@@ -12,6 +12,18 @@ Every new tab opens a cream page: the date, the minute, a sentence that names th
 | **Privacy** | [PRIVACY.md](PRIVACY.md) — also at [github.com/markusvankempen/ink-clock](https://github.com/markusvankempen/ink-clock) |
 | **Chrome Web Store** | [STORE.md](STORE.md) — listing copy and submission checklist |
 
+## Screenshots
+
+![Every new tab tells the time with a line from a book](store-listing/promo-marquee-1400x560.png)
+
+| | |
+|---|---|
+| ![The time, as a line from a book](store-listing/promo-small-440x280.png) | ![Store icon](store-listing/store-icon-128.png) |
+| ![The page, with a line from The Adventure of the Blue Carbuncle](store-listing/screenshot-1-page.png) | ![Quote sources and paper themes](store-listing/screenshot-2-theme.png) |
+| ![Read aloud and sound effects](store-listing/screenshot-3-sound.png) | ![Midnight](store-listing/screenshot-4-midnight.png) |
+
+![An original pirate line](store-listing/screenshot-5-pirate.png)
+
 ---
 
 ## Why it exists
